@@ -1,0 +1,15 @@
+D:\About Kuliah\about kuliah 2\Semester 7\prak. RPLBK\mod8\perc2mod8\perc2mod8\obj\Debug\perc2mod8.vbproj.AssemblyReference.cache
+D:\About Kuliah\about kuliah 2\Semester 7\prak. RPLBK\mod8\perc2mod8\perc2mod8\obj\Debug\perc2mod8.vbproj.SuggestedBindingRedirects.cache
+D:\About Kuliah\about kuliah 2\Semester 7\prak. RPLBK\mod8\perc2mod8\perc2mod8\obj\Debug\perc2mod8.Form1.resources
+D:\About Kuliah\about kuliah 2\Semester 7\prak. RPLBK\mod8\perc2mod8\perc2mod8\obj\Debug\perc2mod8.Resources.resources
+D:\About Kuliah\about kuliah 2\Semester 7\prak. RPLBK\mod8\perc2mod8\perc2mod8\obj\Debug\perc2mod8.vbproj.GenerateResource.cache
+D:\About Kuliah\about kuliah 2\Semester 7\prak. RPLBK\mod8\perc2mod8\perc2mod8\obj\Debug\perc2mod8.vbproj.CoreCompileInputs.cache
+D:\About Kuliah\about kuliah 2\Semester 7\prak. RPLBK\mod8\perc2mod8\perc2mod8\bin\Debug\perc2mod8.exe.config
+D:\About Kuliah\about kuliah 2\Semester 7\prak. RPLBK\mod8\perc2mod8\perc2mod8\bin\Debug\perc2mod8.exe
+D:\About Kuliah\about kuliah 2\Semester 7\prak. RPLBK\mod8\perc2mod8\perc2mod8\bin\Debug\perc2mod8.pdb
+D:\About Kuliah\about kuliah 2\Semester 7\prak. RPLBK\mod8\perc2mod8\perc2mod8\bin\Debug\perc2mod8.xml
+D:\About Kuliah\about kuliah 2\Semester 7\prak. RPLBK\mod8\perc2mod8\perc2mod8\bin\Debug\TempConv.dll
+D:\About Kuliah\about kuliah 2\Semester 7\prak. RPLBK\mod8\perc2mod8\perc2mod8\obj\Debug\perc2mod8.vbproj.CopyComplete
+D:\About Kuliah\about kuliah 2\Semester 7\prak. RPLBK\mod8\perc2mod8\perc2mod8\obj\Debug\perc2mod8.exe
+D:\About Kuliah\about kuliah 2\Semester 7\prak. RPLBK\mod8\perc2mod8\perc2mod8\obj\Debug\perc2mod8.xml
+D:\About Kuliah\about kuliah 2\Semester 7\prak. RPLBK\mod8\perc2mod8\perc2mod8\obj\Debug\perc2mod8.pdb
